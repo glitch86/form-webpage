@@ -1,0 +1,32 @@
+body {
+    height: 100vh;
+}
+main {
+    height: 100%;
+    display: flex;
+}
+.search_form {
+    width: 50%;
+    margin: auto;
+    border: 2px solid gray;
+    padding: 20px;
+    background-color: antiquewhite;
+}
+
+.search_result {
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    padding: 7px;
+}
+
+.search_bar {
+    margin: 5px 0;
+}
+.image {
+    width: 73%;;
+}
+
+.image img {
+    width: 100%;
+}
+
