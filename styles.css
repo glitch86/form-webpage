@@ -30,3 +30,6 @@ main {
     width: 100%;
 }
 
+fieldset input, textarea {
+    display: block;
+}
